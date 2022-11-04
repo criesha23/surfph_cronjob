@@ -1,7 +1,7 @@
 <?php
 /****************************************************************************
 File: database_conf.php
-Author: Criesha Ann Borbajo
+Author: Criesha Ann 
 
 
 
